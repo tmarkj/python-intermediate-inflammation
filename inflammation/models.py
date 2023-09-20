@@ -40,4 +40,3 @@ def daily_min(data):
     :returns: a numpy array of daily min
     """
     return np.min(data, axis=0)
-
